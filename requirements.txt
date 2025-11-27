@@ -1,0 +1,7 @@
+tensorflow==2.14.0
+numpy
+pillow
+streamlit
+scikit-learn
+matplotlib
+h5py
