@@ -1,0 +1,32 @@
+{
+  "fair": {
+    "foundation": [
+      {"name": "Brand A - F1", "hex": "#F7E7D7"},
+      {"name": "Brand B - 01", "hex": "#FBE6D1"}
+    ],
+    "lipstick": [
+      {"name": "Brand L - 10", "hex": "#C94A4A"}
+    ]
+  },
+  "tan": {
+    "foundation": [
+      {"name": "Brand A - T1", "hex": "#D6B089"}
+    ],
+    "lipstick": [
+      {"name": "Brand L - 20", "hex": "#B24A3C"}
+    ]
+  },
+  "olive": {
+    "foundation": [
+      {"name": "Brand A - O1", "hex": "#C6A88A"}
+    ]
+  },
+  "deep": {
+    "foundation": [
+      {"name": "Brand D - 2", "hex": "#6C3A2A"}
+    ],
+    "lipstick": [
+      {"name": "Brand L - 30", "hex": "#7D1F2E"}
+    ]
+  }
+}
